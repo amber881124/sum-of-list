@@ -1,5 +1,5 @@
 def sum_of_list(list):
-    return sum(list) / len(list)
+    return sum(list)
 
 num_list = []
 while True:
